@@ -5,8 +5,6 @@ st.set_page_config(layout='wide')
 st.markdown("# Python")
 st.sidebar.markdown("# Python")
 
-# st.set_page_config(layout='wide')
-
 content2 = '''
 Below you can find some of the apps I have built in Python. Feel free to contact me!
 '''
